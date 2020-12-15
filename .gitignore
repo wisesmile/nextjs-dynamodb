@@ -7,3 +7,6 @@ cdk.out
 # Parcel build directories
 .cache
 .build
+
+.next
+.env.local
